@@ -1,0 +1,6 @@
+Hola {{nombre}},
+
+Este es tu documento personalizado. Espero que te guste.
+
+Atentamente,
+YOOOO
